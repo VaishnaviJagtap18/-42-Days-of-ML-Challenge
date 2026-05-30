@@ -1,5 +1,3 @@
-# -42-Days-of-ML-Challenge
-
 # 42 Days of AI/ML Challenge 🚀
 
 > **From zero to production-ready ML Engineer. In public. For free.**
