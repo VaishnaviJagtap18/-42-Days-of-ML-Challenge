@@ -1,4 +1,4 @@
-# 42 Days of AI/ML Challenge 🚀
+# 42 Days of ML Challenge 🚀
 
 > **From zero to production-ready ML Engineer. In public. For free.**
 
@@ -23,7 +23,7 @@ Every 7 days: a revision post with 5 MNC interview questions, practice projects,
 
 ## Before You Start
 
-**Read the [Prerequisites Guide](prerequisites/) first.**
+**Read the [Prerequisites Guide](prerequisites/prerequisites_checklist_42daysofml.ipynb) first.**
 
 You need solid foundations in Python, Linear Algebra, Calculus, and Statistics before Day 1. The prerequisites guide tells you exactly what to study, how long it takes, and has a self-check so you know when you're ready.
 
