@@ -36,7 +36,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### 📦 Week 1: Data Foundations
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 1 | What is Data in ML | [Notebook](week1_data_foundations/day01_what_is_data/) | [LinkedIn](#) |
+| 1 | What is Data in ML | [Notebook](WEEK 1: Data Foundations/day01_notebook.ipynb) | [LinkedIn](#) |
 | 2 | Data Types and Distributions | [Notebook](week1_data_foundations/day02_data_types_distributions/) | [LinkedIn](#) |
 | 3 | Descriptive Statistics | [Notebook](week1_data_foundations/day03_descriptive_statistics/) | [LinkedIn](#) |
 | 4 | Exploratory Data Analysis | [Notebook](week1_data_foundations/day04_eda/) | [LinkedIn](#) |
