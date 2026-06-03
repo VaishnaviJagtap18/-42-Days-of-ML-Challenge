@@ -37,7 +37,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
 | 1 | What is Data in ML | [Notebook](week1_data_foundations/day01_what_is_data/) | [LinkedIn](#) |
-| 2 | Data Types and Distributions | [Notebook](week1_data_foundations/day02_data_types_distributions/) | [LinkedIn](#) |
+| 2 | Data Types and Distributions | [Notebook](week1_data_foundations/day02_data_types_distributions/) | [LinkedIn](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_42daysofml-day02-share-7467619911033593856-AiKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 3 | Descriptive Statistics | [Notebook](week1_data_foundations/day03_descriptive_statistics/) | [LinkedIn](#) |
 | 4 | Exploratory Data Analysis | [Notebook](week1_data_foundations/day04_eda/) | [LinkedIn](#) |
 | 5 | Missing Data | [Notebook](week1_data_foundations/day05_missing_data/) | [LinkedIn](#) |
