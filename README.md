@@ -41,7 +41,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 3 | Descriptive Statistics | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/WEEK%201%3A%20Data%20Foundations/day03_notebook.ipynb) | [LinkedIn](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_42daysofmlchallenge-day03-share-7467974657967742976-tjXn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 4 | Exploratory Data Analysis | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/WEEK%201%3A%20Data%20Foundations/day04_notebook.ipynb) | [LinkedIn](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_eda-ugcPost-7468301397155913728-JD1u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 5 | Missing Data | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/WEEK%201%3A%20Data%20Foundations/day05_notebook.ipynb) | [LinkedIn](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_84-imputation-of-missing-values-share-7468665618955657216-7I1g/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 6 | Outliers | [Notebook](week1_data_foundations/day06_outliers/) | [LinkedIn](#) |
+| 6 | Outliers | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/WEEK%201%3A%20Data%20Foundations/day06_notebook.ipynb) | [LinkedIn](#) |
 | 7 | Data Cleaning | [Notebook](week1_data_foundations/day07_data_cleaning/) | [LinkedIn](#) |
 | 8 | **Week 1 Revision** | [Revision](revision_posts/week1_revision/) | [LinkedIn](#) |
 
