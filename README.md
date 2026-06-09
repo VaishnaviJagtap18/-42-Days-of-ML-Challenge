@@ -48,7 +48,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### ⚙️ Week 2: Feature Work
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 9 | Feature Engineering | Coming soon | - |
+| 9 | Feature Engineering | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202%3A%20Feature%20Work/day09_notebook.ipynb) | [Linkedin](#) |
 | 10 | Feature Selection | Coming soon | - |
 | 11 | Scaling and Encoding | Coming soon | - |
 | 12 | How ML Actually Works | Coming soon | - |
