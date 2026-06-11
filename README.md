@@ -50,7 +50,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 |-----|-------|----------|------|
 | 9 | Feature Engineering | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202%3A%20Feature%20Work/day09_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_github-alteryxfeaturetools-an-open-source-share-7470096734807842816-lOQi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 10 | Feature Selection | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202%3A%20Feature%20Work/day10_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_52-permutation-feature-importance-share-7470477978901229569-ewrJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 11 | Scaling and Encoding | Coming soon | - |
+| 11 | Scaling and Encoding | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day11_notebook.ipynb) | [Linkedin](#) |
 | 12 | How ML Actually Works | Coming soon | - |
 | 13 | Linear Regression | Coming soon | - |
 | 14 | Logistic Regression | Coming soon | - |
