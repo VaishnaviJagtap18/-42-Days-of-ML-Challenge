@@ -53,7 +53,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 11 | Scaling and Encoding | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day11_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_day11-ugcPost-7470851982442897408--OqX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 12 | How ML Actually Works | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202%3A%20Feature%20Work/day12_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_torchoptim-share-7471204247758368768-6XfD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 13 | Linear Regression | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day13_Notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_statsmodels-0146-share-7471560139376869376-cdLP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 14 | Logistic Regression | Coming soon | - |
+| 14 | Logistic Regression | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day14_notebook.ipynb) | [Linkedin]() |
 | 15 | Decision Trees | Coming soon | - |
 | 16 | **Week 2 Revision** | Coming soon | - |
 
