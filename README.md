@@ -55,7 +55,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 13 | Linear Regression | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day13_Notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_statsmodels-0146-share-7471560139376869376-cdLP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 14 | Logistic Regression | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day14_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_imbalanced-learn-documentation-share-7471940315675848704-ozeN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 15 | Decision Trees | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202:%20Feature%20Work/day15_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_110-decision-trees-share-7472286541726412800-iMG1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 16 | **Week 2 Revision** | Coming soon | - |
+| 16 | **Week 2 Revision** | [Revision](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%202%3A%20Feature%20Work/Week2_Revision_Guide_42DaysOfML.pdf) | [Linkedin]() |
 
 ### 🌲 Week 3: Core ML
 | Day | Topic | Notebook | Post |
