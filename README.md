@@ -60,7 +60,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### 🌲 Week 3: Core ML
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 17 | Random Forests | Coming soon | - |
+| 17 | Random Forests | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day17_notebook.ipynb) | [Linkedin]() |
 | 18 | Overfitting vs Underfitting | Coming soon | - |
 | 19 | Model Evaluation | Coming soon | - |
 | 20 | Cross Validation and Hyperparameter Tuning | Coming soon | - |
