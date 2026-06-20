@@ -63,7 +63,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 17 | Random Forests | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day17_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_111-ensembles-gradient-boosting-random-share-7473011187564175360-PrXJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 18 | Overfitting vs Underfitting | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day18_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_day18-ugcPost-7473372429893976064-Bqpy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 19 | Model Evaluation | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day19_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_machine-learning-in-python-share-7473734054119534593-eUEM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 20 | Cross Validation and Hyperparameter Tuning | Coming soon | - |
+| 20 | Cross Validation and Hyperparameter Tuning | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day20_notebook.ipynb) | [Linkedin]() |
 | 21 | Gradient Boosting (XGBoost) | Coming soon | - |
 | 22 | K-Means Clustering | Coming soon | - |
 | 23 | Dimensionality Reduction (PCA) | Coming soon | - |
