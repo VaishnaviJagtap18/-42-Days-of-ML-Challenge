@@ -66,7 +66,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 20 | Cross Validation and Hyperparameter Tuning | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day20_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_machine-learning-in-python-share-7474096931049246720--Igy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 21 | Gradient Boosting (XGBoost) | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203:%20Core%20ML/day21_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_welcome-to-the-shap-documentation-share-7474455591650746369-mnmB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 22 | K-Means Clustering | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203%3A%20Core%20ML/day22_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_42daysofml-machinelearning-day22-share-7474840919641616385-V25k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 23 | Dimensionality Reduction (PCA) | Coming soon | - |
+| 23 | Dimensionality Reduction (PCA) | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%203%3A%20Core%20ML/day23_notebook.ipynb) | [Linkedin]() |
 | 24 | **Week 3 Revision** | Coming soon | - |
 
 ### 🧠 Week 4: Deep Learning
