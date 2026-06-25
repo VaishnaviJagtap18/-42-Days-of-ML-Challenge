@@ -72,7 +72,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### 🧠 Week 4: Deep Learning
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 25 | Pipelines | Coming soon | - |
+| 25 | Pipelines | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day25_notebook.ipynb) | [Linkedin]() |
 | 26 | Neural Networks | Coming soon | - |
 | 27 | CNNs | Coming soon | - |
 | 28 | Transfer Learning | Coming soon | - |
