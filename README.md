@@ -76,7 +76,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 26 | Neural Networks | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day26_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_introducing-keras-30-share-7476269751342837760-bmGu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 27 | CNNs | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day27_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_efficientnet-rethinking-model-scaling-for-share-7476632299024007168-66l_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 28 | Transfer Learning | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day28_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_github-huggingfacepytorch-image-models-share-7476991747773001729-ke3k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 29 | RNNs and LSTMs | Coming soon | - |
+| 29 | RNNs and LSTMs | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day29_notebook.ipynb) | [Linkedin]() |
 | 30 | Transformers | Coming soon | - |
 | 31 | Backpropagation and Optimizers | Coming soon | - |
 | 32 | **Week 4 Revision** | Coming soon | - |
