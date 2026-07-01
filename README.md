@@ -78,7 +78,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 28 | Transfer Learning | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day28_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_github-huggingfacepytorch-image-models-share-7476991747773001729-ke3k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 29 | RNNs and LSTMs | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day29_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_mamba-linear-time-sequence-modeling-with-share-7477355738642903040-YTkX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 30 | Transformers | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day30_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_flashattention-fast-and-memory-efficient-share-7477716796825894912-aPpG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 31 | Backpropagation and Optimizers | Coming soon | - |
+| 31 | Backpropagation and Optimizers | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%204%3A%20Deep%20Learning/day31_notebook.ipynb) | [Linkedin]() |
 | 32 | **Week 4 Revision** | Coming soon | - |
 
 ### 💬 Week 5: NLP and LLMs
