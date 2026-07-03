@@ -84,7 +84,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### 💬 Week 5: NLP and LLMs
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 33 | Tokenization and Embeddings | Coming soon | - |
+| 33 | Tokenization and Embeddings | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day33_notebook.ipynb) | [Linkedin]() |
 | 34 | Fine-tuning vs Prompting | Coming soon | - |
 | 35 | RAG | Coming soon | - |
 | 36 | LLM Agents | Coming soon | - |
