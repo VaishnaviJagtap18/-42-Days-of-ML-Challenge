@@ -85,7 +85,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
 | 33 | Tokenization and Embeddings | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day33_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_matryoshka-representation-learning-share-7478817701054963712-7Uu_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 34 | Fine-tuning vs Prompting | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day34_notebook.ipynb) | [Linkedin]() |
+| 34 | Fine-tuning vs Prompting | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day34_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_lora-low-rank-adaptation-of-large-language-share-7479181540309200896-gc_O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 35 | RAG | Coming soon | - |
 | 36 | LLM Agents | Coming soon | - |
 | 37 | Vector Databases | Coming soon | - |
