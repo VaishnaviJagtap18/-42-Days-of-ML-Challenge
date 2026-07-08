@@ -89,7 +89,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 | 35 | RAG | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day35_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_from-local-to-global-a-graph-rag-approach-share-7479532069782491136-6Z8a/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 36 | LLM Agents | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day36_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_github-huggingfacesmolagents-smolagents-share-7479894640272351233-b7AJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
 | 37 | Vector Databases | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day37_notebook.ipynb) | [Linkedin](https://www.linkedin.com/posts/vaishnavi-jagtap-065b753b1_github-pgvectorpgvector-open-source-vector-share-7480252648244436992-QOta/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGS67Q0BS-xtlwS_MVfuMeU-pI47nV3naBc) |
-| 38 | LLM Evaluation | Coming soon | - |
+| 38 | LLM Evaluation | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%205%3A%20NLP%20and%20LLMs/day38_notebook.ipynb) | [Linkedin]() |
 | 39 | Building with APIs (OpenAI, Gemini, Claude) | Coming soon | - |
 | 40 | **Week 5 Revision** | Coming soon | - |
 
