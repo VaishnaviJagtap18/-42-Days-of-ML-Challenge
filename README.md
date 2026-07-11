@@ -96,7 +96,7 @@ If you jump to Day 1 without the foundations, you'll copy code you don't underst
 ### 🏭 Week 6: Production
 | Day | Topic | Notebook | Post |
 |-----|-------|----------|------|
-| 41 | Deploying an ML Model with FastAPI | Coming soon | - |
+| 41 | Deploying an ML Model with FastAPI | [Notebook](https://github.com/VaishnaviJagtap18/-42-Days-of-ML-Challenge/blob/main/Week%206%3A%20Production/day41_notebook.ipynb) | [Linkedin]() |
 | 42 | MLOps Basics + Full End-to-End Project | Coming soon | - |
 
 ---
